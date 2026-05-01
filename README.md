@@ -124,7 +124,7 @@ Minecraft, Mojang, Xbox y sus marcas relacionadas pertenecen a sus respectivos p
 Puedes encontrarme en:
 
 - 🔴 YouTube: [alecstry](https://www.youtube.com/@Alecstry)
-- 🔵 X/Twitter: [alecstry](https://www.x.com/@alecstry)
+- 🔵 X/Twitter: [alecstry](https://x.com/alecstry)
 - 🟣 Twitch: [alecstry](https://www.twitch.tv/alecstry)
 - 🟢 Kick: [alecstry](https://kick.com/alecstry)
 - ⚪ TikTok: [alecstry](https://www.tiktok.com/@alecstry)

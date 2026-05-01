@@ -22,11 +22,11 @@ Este pack está pensado para pruebas visuales, showcases, reviews y creación de
 
 ## 📥 Descarga
 
-Puedes descargar la última versión del pack desde la sección de **Releases** de este repositorio.
+Puedes descargar la última versión del pack desde la sección de **[Releases](https://github.com/alecstry/Cape-Collection/releases)** de este repositorio.
 
 Archivo principal:
 
-**CapeCollection.mcpack**
+**[CapeCollection.mcpack](https://github.com/alecstry/Cape-Collection/releases)**
 
 > Recomiendo descargar siempre el archivo `.mcpack` desde Releases para asegurarte de usar la versión más reciente.
 
@@ -34,7 +34,7 @@ Archivo principal:
 
 ## 🧩 Instalación
 
-1. Descarga el archivo **CapeCollection.mcpack** desde Releases.
+1. Descarga el archivo **CapeCollection.mcpack** desde [Releases](https://github.com/alecstry/Cape-Collection/releases). 
 2. Ábrelo con **Minecraft Bedrock Edition**.
 3. Espera a que el juego importe el pack.
 4. Ve a **Ajustes > Recursos globales > Mis packs**.
@@ -47,10 +47,8 @@ Archivo principal:
 
 ## 🔎 ¿Cómo funciona?
 
-**Cape Collection** usa un sistema de **subpacks**.
-
-Cada subpack reemplaza la textura principal de la capa y permite visualizar un diseño distinto dentro del juego.
-
+**Cape Collection** usa un sistema de **subpacks**.  
+Cada subpack reemplaza la textura principal de la capa y permite visualizar un diseño distinto dentro del juego.  
 Además, el pack incluye soporte visual para **Elytra**, por lo que al equiparlas se mostrará una textura sincronizada con la capa seleccionada.
 
 ---
@@ -92,19 +90,14 @@ Cape Collection tendrá dos versiones adicionales pensadas para ampliar el proye
 ### 🟡 Cape Collection: Customized
 
 Una versión enfocada en capas completamente personalizadas.
-
-A diferencia de la colección principal, esta edición estará centrada en presentar diseños nuevos, originales y personalizados.
-
+A diferencia de la colección principal, esta edición estará centrada en presentar diseños nuevos, originales y personalizados.  
 La idea es incluir alrededor de **50 capas custom**, creadas con una identidad visual propia.
-
 Esta versión estará pensada para quienes buscan diseños más creativos, libres y diferentes a las capas vanilla.
 
 ### 🟡 Cape Collection: The Hall of Fame
 
 Una versión depurada con una selección de las mejores capas.
-
-Esta edición reunirá aproximadamente **25 capas destacadas**, elegidas según votación, criterio visual o participación de la comunidad.
-
+Esta edición reunirá aproximadamente **25 capas destacadas**, elegidas según votación, criterio visual o participación de la comunidad.  
 Su objetivo será ofrecer una versión más compacta, premium y fácil de recorrer, con las capas más representativas o mejor valoradas del proyecto.
 
 ---
@@ -121,8 +114,7 @@ El pack funciona únicamente como una modificación visual dentro del juego.
 
 Creado por **@alecstry**.
 
-Este proyecto es fan-made y no está afiliado oficialmente con Mojang Studios, Microsoft, Xbox ni Minecraft.
-
+Este proyecto es fan-made y no está afiliado oficialmente con Mojang Studios, Microsoft, Xbox ni Minecraft.  
 Minecraft, Mojang, Xbox y sus marcas relacionadas pertenecen a sus respectivos propietarios.
 
 ---
@@ -132,10 +124,10 @@ Minecraft, Mojang, Xbox y sus marcas relacionadas pertenecen a sus respectivos p
 Puedes encontrarme en:
 
 - 🔴 YouTube: [alecstry](https://www.youtube.com/@Alecstry)
-- 🔵 X/Twitter: [@alecstry](https://www.x.com/@alecstry)
+- 🔵 X/Twitter: [alecstry](https://www.x.com/@alecstry)
 - 🟣 Twitch: [alecstry](https://www.twitch.tv/alecstry)
 - 🟢 Kick: [alecstry](https://kick.com/alecstry)
-- ⚪ TikTok: [@alecstry](https://www.tiktok.com/@alecstry)
+- ⚪ TikTok: [alecstry](https://www.tiktok.com/@alecstry)
 
 Si usas este pack en videos, publicaciones o showcases, puedes dar crédito como:
 

@@ -76,8 +76,8 @@ Este pack puede entrar en conflicto con otros resource packs que modifiquen arch
 - Elytra.
 - Render controllers.
 - Geometrías del jugador.
-- `player.entity.json`;
-- `elytra.json`.
+- `player.entity.json`
+- `elytra.json`
 
 Si otro pack modifica los mismos archivos, Minecraft puede priorizar uno sobre otro según el orden de carga.
 

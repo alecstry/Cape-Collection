@@ -21,11 +21,11 @@ Este proyecto está pensado para la comunidad de Minecraft Bedrock, creadores de
 
 Revisa si el problema está relacionado con:
 
-- 🧍 Otro resource pack que modifica `player.entity.json`.
-- 🪽 Otro pack que modifica Elytra.
-- 🖼️ Una textura mal nombrada.
-- 📁 Un subpack que no coincide con el `folder_name` del `manifest.json`.
-- 🎮 Una versión incompatible de Minecraft Bedrock.
+- Otro resource pack que modifica `player.entity.json`.
+- Otro pack que modifica Elytra.
+- Una textura mal nombrada.
+- Un subpack que no coincide con el `folder_name` del `manifest.json`.
+- Una versión incompatible de Minecraft Bedrock.
 
 ---
 
